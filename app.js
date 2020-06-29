@@ -14,6 +14,9 @@ async function main() {
 
     console.log(usuarios.heard);
     console.log(usuarios.rows);
+
+    console.log(usuarios.RowCount);
+    console.log(usuarios.ColumCount);
 }
     
 main();
